@@ -1,0 +1,20 @@
+Directory: ../food
+Subdirectory: fruits
+Subdirectory: vegetables
+
+Directory: ../food/fruits
+Subdirectory: apples
+Subdirectory: oranges
+File: banana.txt
+File: blueberry.txt
+File: strawberry.txt
+
+Directory: ../food/fruits/apples
+File: honeycrisp.txt
+
+Directory: ../food/fruits/oranges
+File: mandarin.txt
+
+Directory: ../food/vegetables
+File: carrot.txt
+

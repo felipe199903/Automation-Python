@@ -1,0 +1,20 @@
+Directory: ../food
+Subdirectory: fruits
+Subdirectory: vegetables
+
+Directory: ../food/fruits
+Subdirectory: apples
+Subdirectory: oranges
+File: 2020-01-23 18.25.46.536093_banana.txt
+File: 2020-01-23 18.25.46.551097_strawberry.txt
+File: 2020-01-23 18.25.46.552098_blueberry.txt
+
+Directory: ../food/fruits/apples
+File: 2020-01-23 18.25.46.554098_honeycrisp.txt
+
+Directory: ../food/fruits/oranges
+File: 2020-01-23 18.25.46.564144_mandarin.txt
+
+Directory: ../food/vegetables
+File: 2020-01-23 18.25.46.585149_carrot.txt
+
